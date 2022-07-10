@@ -1,0 +1,2 @@
+# ktor_exposed
+ktorとExposedを利用したDRUDサンプル
